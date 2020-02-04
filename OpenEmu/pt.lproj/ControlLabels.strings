@@ -58,8 +58,8 @@
   "Action" = "Action";
   "Analog Mode" = "Modo analógico";
   "B" = "B";
-  "Bottom Left Action" = "Bottom Left Action";  // TODO
-  "Bottom Right Action" = "Bottom Right Action";  // TODO
+  "Bottom Left Action" = "Botão de Ação Esquerdo";
+  "Bottom Right Action" = "Botão de Ação Direito";
   "Button 1" = "Botão 1";
   "Button 1/Start" = "Botão 1/Start";
   "Button 2" = "Botão 2";
@@ -71,7 +71,7 @@
   "Change Disk Side" = "Inverter Disco";
   "Clear" = "Clear";
   "Console Pause" = "Pausar Console";
-  "Console Reset" = "Console Reset";  // TODO
+  "Console Reset" = "Reiniciar Console";
   "Down" = "Baixo";
   "Enter" = "Enter";
   "Fire 1" = "Atirar 1";
@@ -150,10 +150,10 @@
   "Rapid Fire Reset" = "Rapid Fire Reset";      // TODO
   "Rapid Fire Toggle" = "Rapid Fire Toggle";    // TODO
   "Reset" = "Reset";
-  "Rewind" = "Rewind";
+  "Rewind" = "Rebobinar";
   "Save" = "Save";
   "Screenshot" = "Captura de Tela";
-  "Step Backward" = "Step Backward";    // TODO
-  "Step Forward" = "Step Forward";    // TODO
+  "Step Backward" = "Retroceder um passo";    // TODO
+  "Step Forward" = "Avançar um passo";    // TODO
   "Volume Down" = "Abaixar Volume";
   "Volume Up" = "Aumentar Volume";

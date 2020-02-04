@@ -26,10 +26,10 @@
 
 "Archived Game" = "Jogo arquivado";
 
-"GameCorePlugin" = "PluginDoNucleo"; // TODO NOT SURE HOW THIS SHOULD BE TRANSLATED, CONTEXT?
+"GameCorePlugin" = "GameCorePlugin"; // TODO NOT SURE HOW THIS SHOULD BE TRANSLATED, CONTEXT?
 
 "OpenEmu Save State" = "Salvamento OpenEmu";
 
 "System Plugin" = "Plugin do sistema";
 
-"VideoFilterPlugin" = "PluginFiltroDeVideo"; // TODO NOT SURE HOW THIS SHOULD BE TRANSLATED, CONTEXT?
+"VideoFilterPlugin" = "VideoFilterPlugin"; // TODO NOT SURE HOW THIS SHOULD BE TRANSLATED, CONTEXT?
